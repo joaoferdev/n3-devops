@@ -1,0 +1,11 @@
+# BACKEND
+backend/node_modules
+backend/coverage
+backend/.env
+
+# FRONTEND
+frontend/node_modules
+frontend/dist
+
+# GERAL
+.DS_Store
