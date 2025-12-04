@@ -15,7 +15,7 @@ export default function Dashboard() {
       </div>
 
       <div className="box">
-        <h2>Transações</h2>
+        <h2>Transações Atualizado</h2>
 
         {loading && <p>Carregando...</p>}
 
