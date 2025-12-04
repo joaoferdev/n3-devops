@@ -7,7 +7,7 @@ export default function Dashboard() {
 
   return (
     <div className="container">
-      <h1>Controle Financeiro</h1>
+      <h1>Controle Financeiro novo</h1>
 
       <div className="box">
         <h2>Nova Transação</h2>
